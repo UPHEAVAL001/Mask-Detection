@@ -1,2 +1,2 @@
-# Mask-Detection
-Mask detection using Detectron2
+#Mask-Detection
+#Detectron2
